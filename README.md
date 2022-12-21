@@ -3,7 +3,7 @@
 **java разработчик** <br>
 г.Москва 
 
-!⁠[Alt photo]​(https://pbs.twimg.com/media/EIn4IUJWkAIOS7w.jpg)
+![photo](https://user-images.githubusercontent.com/102383553/208983519-432182a1-9766-4795-aae1-48af4190d953.jpeg)
 ___
 ## опыт работы
 2019 - нв    ООО «SoftLight», Москва, Java разработчик
